@@ -1,0 +1,105 @@
+﻿  ObjParser.cpp
+C:\Users\PC\source\repos\Project3\ObjParser.h(180,13): warning C4477: 'fprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'입니다.
+C:\Users\PC\source\repos\Project3\ObjParser.h(217,31): warning C4267: 'return': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\foods.h(195,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(426,64): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(426,54): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(426,44): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(427,65): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(427,55): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(427,44): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(428,66): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(428,55): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(428,44): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(429,65): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(429,54): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(429,44): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(432,65): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(432,54): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(432,44): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(433,66): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(433,55): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(433,44): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(434,67): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(434,56): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(434,45): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(435,66): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(435,55): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(435,45): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(438,66): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(438,55): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(438,45): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(439,67): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(439,56): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(439,45): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(440,66): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(440,56): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(440,45): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(441,65): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(441,55): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(441,45): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(444,65): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(444,55): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(444,45): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(445,66): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(445,56): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(445,45): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(446,65): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(446,55): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(446,44): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(447,64): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(447,54): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(447,44): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(450,66): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(450,55): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(450,45): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(451,65): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(451,55): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(451,45): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(452,64): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(452,54): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(452,44): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(453,65): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(453,54): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(453,44): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(456,66): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(456,56): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(456,45): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(457,67): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(457,56): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(457,45): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(458,66): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(458,55): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(458,44): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(459,65): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(459,55): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(459,44): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(596,36): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(596,36): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(596,43): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(596,43): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(596,50): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(596,50): warning C4244: '초기화 중': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(622,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(628,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(630,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(636,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(638,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(645,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(646,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(653,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(655,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(661,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(663,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(668,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(680,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(711,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(883,16): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(884,21): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\PC\source\repos\Project3\ObjParser.cpp(893,25): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  코드를 생성하고 있습니다.
+  1 of 232 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Project3.vcxproj -> C:\Users\PC\source\repos\Project3\x64\Release\Project3.exe
