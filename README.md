@@ -36,7 +36,17 @@ Blender, OpenGL을 이용하여 양문형 냉장고 카탈로그를 구현하였
 ### Menu
 
 ![그림1](https://user-images.githubusercontent.com/63782957/176840735-d23a3f2d-1a14-469f-b477-5881f7bc7505.png)
+<li>Init view : 시점 초기화</li>
+<li>Store food : 콜라/사이다 저장</li>
+<li>Pick up : 콜라/사이다 손에 들기</li><br>
+
 ![그림2](https://user-images.githubusercontent.com/63782957/176840799-0e484363-8575-473f-9cc1-b5c315fa18b0.png)
+
+음료를 픽업한 상태에서 마우스로 음료 클릭 시, 음료가 다시 냉장고에 보관됩니다.
+
+### Alert
+문을 열어두고 일정 시간이 지나면 경고음, 경고메시지가 출력됩니다.
+<li>"mmsystem.h"의 PlaySound 함수 이용</li>
 
 ### Tools
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/></a>&nbsp;
