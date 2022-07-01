@@ -1,10 +1,18 @@
 # Refrigerator_ComputerGraphics
 ### 2020-2학기 컴퓨터그래픽스설계 프로젝트
 Blender, OpenGL을 이용하여 양문형 냉장고 카탈로그를 구현하였습니다.
-<br><br>
+<br>
 
 ### Details
 ![그림2](https://user-images.githubusercontent.com/63782957/176839937-3569624b-61db-4225-86fb-cb7331345c5c.png)
+<br>
+<li>내부 저장고 8칸</li>
+<li>양쪽 문 내부 2칸</li>
+<li>오른쪽 문 외부 홈바</li>
+<br>
+
+### Functions
+
 |Key|Event|
 |------|---|
 |방향키|시점 이동|
@@ -16,8 +24,16 @@ Blender, OpenGL을 이용하여 양문형 냉장고 카탈로그를 구현하였
 |keyboard 'q'|분해/재조립|
 |keyboard 'z'|조작법 on/off|
 |keyboard 'a'|조명 on/off|
-|*mouse button*|*픽업된 음료 보관*|
+|*mouse button*|*픽업된 음료 보관(2차 개선)*|
+<br>
+
+### Textures
+
 <img width="236" alt="스크린샷 2022-07-01 오후 3 50 59" src="https://user-images.githubusercontent.com/63782957/176840220-24719c73-5d22-4881-aea5-240ad41854bf.png">
+<br>
+<li>오른쪽 마우스 - Style 에서 변경</li>
+
+### Menu
 
 ![그림1](https://user-images.githubusercontent.com/63782957/176840735-d23a3f2d-1a14-469f-b477-5881f7bc7505.png)
 ![그림2](https://user-images.githubusercontent.com/63782957/176840799-0e484363-8575-473f-9cc1-b5c315fa18b0.png)
